@@ -24,7 +24,11 @@ Figure 1. Communication system between a satellite and the base station.
 ### Satellite, base stattion and coummunication channel implementation 
 
 
+
 ![Captura de pantalla de 2021-10-06 20-48-43](https://user-images.githubusercontent.com/34940932/136264716-0a40547a-28dc-4d90-9d2c-647e1a19fe3b.png)
+
+
+![Captura de pantalla de 2021-10-06 20-52-43](https://user-images.githubusercontent.com/34940932/136265247-3d137969-1385-4699-80a8-7968f6f8ffe9.png)
 
 
 
