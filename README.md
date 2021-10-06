@@ -13,7 +13,10 @@ For its part, the **base_station.c** program will receive the data, store it in 
 Finally, the **data_link.c** program will interconnect both
 programs and will allow to simulate the effects of the communication channel (losses, delay, etc.). 
 
-
+<p align="center">
 ![Captura de pantalla de 2021-10-06 20-22-17](https://user-images.githubusercontent.com/34940932/136261119-2c2ceb5f-1495-495d-891f-3c8ac08b3f97.png)
 
-Figure 1. Communication system between a satellite and the base station. 
+
+Figure 1. Communication system between a satellite and the base station.
+  
+</p>
