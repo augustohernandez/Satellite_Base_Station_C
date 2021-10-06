@@ -1,6 +1,6 @@
 # Satellite_Base_Station_C
 
-## Final project of the Operating System subject of the Bachelor's Degree in Telecommunications Technology and Services Engineering (UOC).
+## Final project-Operative Systems: Bachelor's Degree in Telecommunications Technology and Services Engineering (UOC). 
 
 In this practice we will assume that we have a base station and a satellite running the GNU / Linux operating system and that want to exchange telemetry data over a radio link using the TCP / IP protocol stack.
 
