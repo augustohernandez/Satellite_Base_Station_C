@@ -21,4 +21,8 @@ programs and will allow to simulate the effects of the communication channel (lo
 Figure 1. Communication system between a satellite and the base station. 
 </p>
 
+### Satellite implementation
+
+
+
 
